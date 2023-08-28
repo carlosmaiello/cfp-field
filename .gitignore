@@ -1,6 +1,7 @@
 .env
 .idea
 .cpffield
+.tox
 *pyc
 __pycache__
 *~
